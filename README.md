@@ -1,46 +1,131 @@
-# 👋 Hi, I'm Karan Gohel  
+<h1 align="center">Hi 👋, I'm Karan Gohel</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-🚀 **Full Stack Developer | AI Enthusiast | Problem Solver**  
-🔹 Passionate about designing and implementing scalable web applications.  
-🔹 Experienced in front-end and back-end technologies with a focus on clean, efficient code.  
-🔹 Always learning and improving in the evolving tech landscape.  
-
-## 🔧 Technical Skills  
-- **Languages**: Java, C/C++, Python  
-- **Front-End**: React.js, Angular, Flutter  
-- **Back-End**: .NET Web API, Node.js, .NET MVC  
-- **Databases**: MongoDB, MySQL, Firebase  
-- **AI & ML**: Machine Learning, AI Development  
-
-## 📌 Featured Projects  
-### 🚗 DropMeThere *(Jan 2025 – Apr 2025)*  
-A **ride-sharing application** enabling drivers to accept ride requests with matching routes.  
-🔗 **[GitHub Repo](#)** | 🏗 **Tech:** React.js, .NET Web API, MySQL  
-
-### 📷 CaptureIt *(Sep 2024 – Nov 2024)*  
-A **full-stack platform for renting camera equipment** with booking & admin management.  
-🔗 **[GitHub Repo](#)** | 🏗 **Tech:** React.js, MongoDB, Node.js  
-
-### ✂️ TailorTrack *(Jun 2024 – Aug 2024)*  
-A **mobile app for tailors to manage client measurements** securely & efficiently.  
-🔗 **[GitHub Repo](#)** | 🏗 **Tech:** Flutter, Firebase  
-
-## 🏆 Certifications  
-- **AI Engineer** – Acmegrade  
-- **Problem Solving** – HackerRank  
-- **SQL Intermediate** – HackerRank  
-- **Image Generation with Google Cloud**  
-- **LeetCode Contest Badges (April 2024)**  
-
-## 🎓 Education  
-🎓 **B.Tech in Computer Science Engineering** (CPI: 9.02) – Darshan University *(2023 – Present)*  
-🎓 **Diploma in Computer Engineering** (CPI: 8.57) – AV Parekh Technical Institute *(2020 – 2023)*  
-
-## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Karan1445)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-j-gohel)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:goheljitu164@gmail.com)  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+.NET;AI+%26+Machine+Learning+Explorer;Building+Scalable+Applications" />
+</p>
 
 ---
 
-💡 *"Building scalable solutions, one line of code at a time!"* 🚀  
+## 👨‍💻 About Me
+
+💡 Passionate about designing and building **scalable web applications**  
+⚡ Focused on **clean, efficient, and maintainable code**  
+📚 Always learning **new technologies and frameworks**  
+🎯 Goal: Build impactful **AI-powered applications**
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge)
+![AI Development](https://img.shields.io/badge/AI%20Development-black?style=for-the-badge)
+
+---
+
+# 📌 Featured Projects
+
+### 🚗 DropMeThere
+Ride-sharing platform where drivers accept ride requests based on route matching.
+
+⚙ **Tech:** React.js, .NET Web API, MySQL  
+🔗 **Repo:** https://github.com/Karan1445
+
+---
+
+### 📷 CaptureIt
+Platform for renting camera equipment with admin dashboard and booking system.
+
+⚙ **Tech:** React.js, Node.js, MongoDB  
+🔗 **Repo:** https://github.com/Karan1445
+
+---
+
+### ✂️ TailorTrack
+Mobile app for tailors to manage client measurements securely.
+
+⚙ **Tech:** Flutter, Firebase  
+🔗 **Repo:** https://github.com/Karan1445
+
+---
+
+# 🏆 Certifications
+
+✔ AI Engineer – Acmegrade  
+✔ Problem Solving – HackerRank  
+✔ SQL Intermediate – HackerRank  
+✔ Image Generation with Google Cloud  
+✔ LeetCode Contest Badges (April 2024)
+
+---
+
+# 🎓 Education
+
+🎓 **B.Tech Computer Science Engineering**  
+Darshan University (2023 – Present)  
+CPI: **9.02**
+
+🎓 **Diploma Computer Engineering**  
+AV Parekh Technical Institute (2020 – 2023)  
+CPI: **8.57**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Karan1445&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan1445&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1445&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Karan1445">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/karan-j-gohel">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:goheljitu164@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💡 <i>"Building scalable solutions, one line of code at a time!"</i> 🚀
+</p>
