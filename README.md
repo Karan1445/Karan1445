@@ -114,7 +114,7 @@ CPI: **8.57**
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/karan-j-gohel">
+<a href="https://linkedin.com/in/karanjgohel">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
