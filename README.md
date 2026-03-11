@@ -208,7 +208,7 @@ const karan: Developer = {
 ║      Darshan University  |  2023 – Present  |  CPI: 9.02 ⭐      ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  🎓  Diploma — Computer Engineering                              ║
-║      AV Parekh Technical Institute  |  2020 – 2023  |  CPI: 8.57║
+║      AV Parekh Technical Institute  |  2020 – 2023  |  CPI: 8.57 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
