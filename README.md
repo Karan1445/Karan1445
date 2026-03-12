@@ -61,7 +61,7 @@ status  : Open to opportunities ✅
 <br/>
 
 ## ❯ projects
-
+ 
 <div align="center">
 
 | Project | Description | Stack | Link |
